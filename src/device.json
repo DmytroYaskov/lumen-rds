@@ -1,0 +1,23 @@
+{
+    "ui":{
+        "background": [255,255,255,255],
+        "pixel": {
+            "relativeSpacing": 0.1,
+            "pixelRender": "solid",
+            "displaying": "streched"
+        },
+        "displayMessages": true 
+    },
+
+    "server":{
+        "IP": "localhost",
+        "port": 4735
+    },
+
+    "device":{
+        "ID": 42,
+        "led":{
+            "type": "singles"
+        }
+    }
+}
